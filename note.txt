@@ -1,0 +1,1 @@
+Hình ảnh đầu vào cho CNN model nên ở dạng RGB torch
